@@ -32,5 +32,5 @@ docker-compose up -d
 docker-compose up -d
 curl http://localhost:8080/health
 ```
-![Alt Text](https://drive.google.com/drive/u/0/home/img.png)
+![Alt Text](https://drive.google.com/file/d/1H7heaF7wRa0qqY4SuJjSPV8LgclpCo-k/view?usp=sharing)
 
