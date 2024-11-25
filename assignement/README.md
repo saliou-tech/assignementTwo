@@ -19,8 +19,8 @@
 
 ### 1. **Clone the Repository**
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/saliou-tech/assignementTwo.git
+cd assignement
 ```
 
 #### 2. **Running the Application**
